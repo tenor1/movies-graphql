@@ -1,0 +1,19 @@
+{
+  "name": "movieql",
+  "version": "1.0.0",
+  "description": "movies base by GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/tenor1/movies-graphql.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tenor1/movies-graphql.git"
+  },
+  "author": "tenor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tenor1/movies-graphql/issues"
+  },
+  "homepage": "https://github.com/tenor1/movies-graphql#readme"
+}
